@@ -6,8 +6,10 @@ public class javaprogram {
        int b=10;
        int c=a+b;
        c=a-b;
+       c=a*b;
        System.out.println("Addition "+c);
        System.out.println("Subtraction "+c);
+        System.out.println("multiplication "+c);
 	}
 	
 
